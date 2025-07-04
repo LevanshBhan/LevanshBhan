@@ -48,6 +48,21 @@ Full-stack React/Node.js app with seamless authentication, optimized for <400ms 
 
 ---
 
+### 👥 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/levansh-bhan)  
+[![Website](https://img.shields.io/badge/-Website-4A90E2?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://levanshbhan.de)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:levanshbhan@gmail.com)  
+
+---
+
+### 👀 Profile Views & Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=levansh-bhan&style=flat-square)  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=levansh-bhan.levansh-bhan)
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="180" alt="Coding animation" />
 </p>
