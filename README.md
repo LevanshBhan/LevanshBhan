@@ -15,7 +15,7 @@ Passionate about clean code, impactful projects, and continuous learning.
 
 
 
-#### 1 [Architect-GPT](https://github.com/LevanshBhan/Architect-GPT)  
+#### 1. [Architect-GPT](https://github.com/LevanshBhan/Architect-GPT)  
 AI-powered assistant for IT architects, offering contextual guidance and architectural decision support using large language models.
 
 
