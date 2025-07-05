@@ -13,8 +13,8 @@ Passionate about clean code, impactful projects, and continuous learning.
 
 ### 🌟 Featured Projects
 
-#### 1. [AI-Powered Trading Analytics System](https://github.com/levansh-bhan/ai-trading-analytics)  
-LSTM-based stock prediction (72% directional accuracy) + lightning-fast real-time data pipelines with Redis & FastAPI.
+#### 1. [Architect-GPT]([https://github.com/LevanshBhan/Architect-GPT])
+AI-powered intelligent assistant for IT architects and technical professionals, providing contextual guidance and decision-making support using advanced language models
 
 #### 2. [Enterprise DevOps Platform](https://github.com/levansh-bhan/enterprise-devops-platform)  
 Automated AWS microservice deployments — cut deploy time from 45 to 8 minutes, with Prometheus + Grafana monitoring dashboards.
