@@ -43,8 +43,8 @@ Full-stack React/Node.js app with seamless authentication, optimized for <400ms 
 
 ### 📊 GitHub Stats
 
-![Levansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=levansh-bhan&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levansh-bhan&layout=compact&theme=radical)
+![Levansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=levanshbhan&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levanshbhan&layout=compact&theme=radical)
 
 ---
 
