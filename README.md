@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Levansh Bhan 👋</h1>
 <p align="center">
-  <em>Master’s Student @ TU Darmstadt | Full-stack Developer | AI & Data Enthusiast</em>
+  <em>MSc. Computer Science @ TU Darmstadt | Full-stack Developer | AI & Data Enthusiast</em>
 </p>
 
 ---
